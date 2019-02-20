@@ -15,7 +15,8 @@ flask, mongoengine, graphene, flask_graphql
 - Update Mongo DB connection details in app/main.py
 
 #### To start the application run the command:
-``` python app/main.py
+``` 
+    python app/main.py
 ```
 
 #### From Browser call below URLs to add data to mongo db (edit the URL parameter values)
